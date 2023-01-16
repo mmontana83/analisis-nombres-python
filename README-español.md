@@ -17,13 +17,6 @@ Porcentaje de datos que cada año aportó al total de la información;
 Evolución del registro de los nombres 'Maria' y 'Juan' (solamente, sin primeros ni segundos nombres, y sin tildes). Marcar cuál es el año donde más veces se registraron;
 El nombre más popular en cada año.
 
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
 Los archivos .csv de https://datos.gob.ar/dataset/otros-nombres-personas-fisicas contienen los nombres de las personas registradas en el Registro Nacional de las Personas desde 1920 a 2014.
 
